@@ -1,0 +1,3 @@
+source https://nuget.org/api/v2
+
+nuget Swashbuckle.AspNetCore 1.0.0-rc1

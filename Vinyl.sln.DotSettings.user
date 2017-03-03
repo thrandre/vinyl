@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=8647F8C05442244F834FBCBE0BED492A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=8647F8C05442244F834FBCBE0BED492A/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=8647F8C05442244F834FBCBE0BED492A/Name/@EntryValue">Vinyl</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=8647F8C05442244F834FBCBE0BED492A/ProjectGuid/@EntryValue">C90554C4326AB748B052BBCC1DDE6D71</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">F936AC4944935C4B94D25F950E146794</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=C77C091C86A37540A4FBB4E1D9B09CCA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=C77C091C86A37540A4FBB4E1D9B09CCA/Name/@EntryValue">Vinyl22</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=C77C091C86A37540A4FBB4E1D9B09CCA/ProjectGuid/@EntryValue">C90554C4326AB748B052BBCC1DDE6D71</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=C77C091C86A37540A4FBB4E1D9B09CCA/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=D76431324FD836488210DFDA3892814A/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=D76431324FD836488210DFDA3892814A/Name/@EntryValue">Vinyl2</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D76431324FD836488210DFDA3892814A/ProjectGuid/@EntryValue">C90554C4326AB748B052BBCC1DDE6D71</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=D76431324FD836488210DFDA3892814A/Type/@EntryValue">project</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=F936AC4944935C4B94D25F950E146794/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=F936AC4944935C4B94D25F950E146794/Name/@EntryValue">Vinyl</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=F936AC4944935C4B94D25F950E146794/ProjectGuid/@EntryValue">C90554C4326AB748B052BBCC1DDE6D71</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=F936AC4944935C4B94D25F950E146794/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>

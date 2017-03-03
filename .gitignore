@@ -1,0 +1,7 @@
+/packages
+bin
+obj
+Debug
+.paket
+Backup
+.vs
