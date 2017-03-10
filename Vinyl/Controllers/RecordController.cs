@@ -33,5 +33,11 @@ namespace Vinyl.Controllers
         {
             return GetRecordsAction.Execute(id);
         }
+
+        [HttpPost]
+        public void CreateRecord([FromBody] Record record)
+        {
+            CreateRecordAction.Execute(record);
+        }
     }
 }
